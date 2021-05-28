@@ -1,4 +1,4 @@
-# clone part of my personal project called Project Management Web App
+# clone part of Project Management Web App
 here just i show my task page where user can add the tasks want to do then can show their progress based on week, month and year.
 use bootstrap to make page responsive with all screen size 
 ## pages
